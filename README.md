@@ -19,3 +19,17 @@ The code for attention U-Net can be found at https://github.com/LeeJunHyun/Image
 ## Second Training Step :
 ### Multipatch and Multi-mask 
 <img src="https://github.com/sunyoungIT/MM-Net/assets/51948046/e43a6036-6dbd-4473-aef4-de1aaa3f40f9" width="900" height="300"/>
+
+# Citation 
+You may cite this project as:
+```
+@ARTICLE{9963593,
+  author={Jeon, Sun-Young and Kim, Wonjin and Choi, Jang-Hwan},
+  journal={IEEE Transactions on Radiation and Plasma Medical Sciences}, 
+  title={MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography}, 
+  year={2023},
+  volume={7},
+  number={3},
+  pages={296-306},
+  doi={10.1109/TRPMS.2022.3224553}}
+```
