@@ -1,5 +1,6 @@
 # MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography
->> MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography
+>> About
+code for Multi-scale Matching Networks for Semantic Correspondence, ICCV
 >> https://ieeexplore.ieee.org/document/9963593
 We used the clinical dataset of the 2016 NIH-AAPM-Mayo Clinic Low-Dose CT Grand Challenge
 
