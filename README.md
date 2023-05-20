@@ -5,7 +5,8 @@ I have created a GitHub repository to share the code for the paper 'MM-Net: Mult
 If you are interested in sharing the code, please feel free to contact me at sunyounge_@ewhain.net. I will update it soon.
 ## Overall architecture
 ### Two-step training network 
-![image](https://github.com/sunyoungIT/MM-Net/assets/51948046/73c2d380-6998-409b-bf4e-28bf84ac46da, width="50" height="50")
+!<img src="https://github.com/sunyoungIT/MM-Net/assets/51948046/73c2d380-6998-409b-bf4e-28bf84ac46da" width="50" height="50"/>
+[image](https://github.com/sunyoungIT/MM-Net/assets/51948046/73c2d380-6998-409b-bf4e-28bf84ac46da, width="50" height="50")
 
 ## First Training Step :
 ### Multiscale Attention U-Net 
