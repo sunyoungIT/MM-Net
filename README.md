@@ -1,8 +1,9 @@
 # MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography
 >> code for MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography, IEEE
->> 
+>> We used the clinical dataset of the 2016 NIH-AAPM-Mayo Clinic Low-Dose CT Grand Challenge
 >> https://ieeexplore.ieee.org/document/9963593
-We used the clinical dataset of the 2016 NIH-AAPM-Mayo Clinic Low-Dose CT Grand Challenge
+>>
+
 
 I have created a GitHub repository to share the code for the paper 'MM-Net: Multiframe and Multimask-Based Unsupervised Deep Denoising for Low-Dose Computed Tomography.' I am currently working on it. 
 If you are interested in sharing the code, please feel free to contact me at sunyounge_@ewhain.net. I will update it soon.
