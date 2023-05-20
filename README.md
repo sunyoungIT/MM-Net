@@ -8,4 +8,4 @@ If you are interested in sharing the code, please feel free to contact me at sun
 ## First Training Step :
 ### Multiscale Attention U-Net 
 >> The code for attention U-Net can be found at https://github.com/LeeJunHyun/Image_Segmentation. You can find more detailed networks available there.
-![image](https://github.com/sunyoungIT/MM-Net/assets/51948046/f2632b7c-1b0d-4841-b306-6a7acab1b784){: width="100" height="100"}
+![image](https://github.com/sunyoungIT/MM-Net/assets/51948046/f2632b7c-1b0d-4841-b306-6a7acab1b784){: width="50" height="50"}
